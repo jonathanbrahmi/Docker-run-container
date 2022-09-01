@@ -7,11 +7,6 @@
 
 import os
 
-nginx = 0
-adejonge_world = 0
-jenkins = 0
-dockerui = 0
-
 
 def run_container():
     print(" + Select container\n")
